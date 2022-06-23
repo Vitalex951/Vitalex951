@@ -1,6 +1,6 @@
 ### Hi there, I'm VITALIY GUSHCHA 👋 
 
-## I'm frontend developer|!!
+## I'm frontend developer!!!
 
 - 🌱 I learn English, JavaScript, React, TypeScript every single day!
 - 👨‍💻 Currently looking for a job as frontend developer
