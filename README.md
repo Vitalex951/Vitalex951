@@ -1,4 +1,4 @@
-### Hi there, I'm VITALIY GUSHCHA 👋 
+### Hi there, I'm Vitaliy Gushcha 👋 
 
 ## I'm frontend developer!!!
 
