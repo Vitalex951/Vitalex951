@@ -2,10 +2,6 @@
 
 ## I'm frontend developer!!!
 
-- 🌱 I learn English, JavaScript, React, TypeScript every single day!
-- 👨‍💻 Currently looking for a job as frontend developer
-- 🥅 2022 Goals: Find a job as a developer. Improve my dev skills. .
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -63,4 +59,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I learn English, JavaScript, React, TypeScript every single day!
+- 👨‍💻 Currently looking for a job as frontend developer
+- 🥅 2022 Goals: Find a job as a developer. Improve my dev skills. .
 -->
